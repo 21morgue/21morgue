@@ -29,8 +29,8 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-stats-extended.vercel.app/api?username=kuyo1337&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&icon_color=8A8A8A&title_color=E6E6E6&text_color=999999" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=kuyo1337&theme=dark&hide_border=true&background=0D0D0D&ring=8A8A8A&fire=E6E6E6&currStreakLabel=8A8A8A" />
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=21morgue&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&icon_color=8A8A8A&title_color=E6E6E6&text_color=999999" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=21morgue&theme=dark&hide_border=true&background=0D0D0D&ring=8A8A8A&fire=E6E6E6&currStreakLabel=8A8A8A" />
 
 </div>
 

@@ -1,36 +1,16 @@
 <div align="center">
 
-# morgue
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8A8A8A&center=true&vCenter=true&width=480&height=35&lines=17+%2F%2F+self+taught+dev" />
+<img src="./assets/liquid-glass-header.svg" width="100%" alt="morgue — self taught developer" />
 
 <br>
 
+<code>when hell is full, the dead will walk the earth</code>
 
-</div>
+<br><br>
 
-<br>
-
-<p align="center"><sub>───────────────  TECH STACK  ───────────────</sub></p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PYTHON-0d0d0d?style=flat-square&logo=python&logoColor=999999&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-0d0d0d?style=flat-square&logo=javascript&logoColor=999999&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/C%23-0d0d0d?style=flat-square&logo=csharp&logoColor=999999&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=999999&labelColor=0d0d0d" />
-
-</div>
-
-<br>
-
-<p align="center"><sub>───────────────  STATS  ───────────────</sub></p>
-
-<div align="center">
-
-<img width="48%" src="https://github-stats-extended.vercel.app/api?username=21morgue&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&icon_color=8A8A8A&title_color=E6E6E6&text_color=999999" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=21morgue&theme=dark&hide_border=true&background=0D0D0D&ring=8A8A8A&fire=E6E6E6&currStreakLabel=8A8A8A" />
+<a href="https://github.com/21morgue?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-101116?style=for-the-badge&logo=github&logoColor=dce7ff" alt="Explore projects" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=21morgue&style=for-the-badge&color=161b2c&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -38,6 +18,44 @@
 
 <div align="center">
 
-<img src="https://count.getloli.com/@:kuyo1337" alt="visitor count" />
+### `01 // TOOLKIT`
+
+<img src="https://img.shields.io/badge/Python-151928?style=for-the-badge&logo=python&logoColor=8fc7ff" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-151928?style=for-the-badge&logo=javascript&logoColor=f4e98a" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%23-151928?style=for-the-badge&logo=sharp&logoColor=bda0ff" alt="C Sharp" />
+<img src="https://img.shields.io/badge/C++-151928?style=for-the-badge&logo=cplusplus&logoColor=87bfff" alt="C Plus Plus" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `02 // SIGNAL`
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=21morgue&show_icons=true&hide_border=true&bg_color=00000000&title_color=526985&text_color=65738a&icon_color=708cff&ring_color=708cff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=21morgue&show_icons=true&hide_border=true&bg_color=00000000&title_color=dce7ff&text_color=8e9ab0&icon_color=9db2ff&ring_color=9db2ff" alt="GitHub statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=21morgue&hide_border=true&background=00000000&ring=708cff&fire=ad75e8&currStreakLabel=526985&sideLabels=65738a&dates=8791a3&currStreakNum=526985&sideNums=526985" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=21morgue&hide_border=true&background=00000000&ring=9db2ff&fire=c69aff&currStreakLabel=dce7ff&sideLabels=8e9ab0&dates=69758a&currStreakNum=dce7ff&sideNums=dce7ff" alt="GitHub streak" />
+</picture>
+
+<br><br>
+
+<img width="72%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21morgue&layout=compact&hide_border=true&bg_color=00000000&title_color=dce7ff&text_color=8e9ab0&langs_count=8" alt="Most used languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `03 // ACTIVITY`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=21morgue&bg_color=00000000&color=8e9ab0&line=9db2ff&point=c69aff&area=true&area_color=6170a8&hide_border=true&custom_title=contribution%20signal" width="96%" alt="Contribution graph" />
+
+<sub>somewhere between an idea and a commit.</sub>
 
 </div>
